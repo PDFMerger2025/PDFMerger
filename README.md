@@ -1,4 +1,5 @@
 # Why Choose **PDF Merger?**
+![demo](https://github.com/user-attachments/assets/3386d79f-4d01-417c-bb90-9d083df5d971)
 
 Easily combine multiple PDF files into a single document with a **simple, user-friendly interface** designed to save you time and effort. Whether you're managing invoices, shipping documents, or reports, **PDF Merger** helps you organize and merge files quickly and efficiently.
 
